@@ -1,2 +1,2 @@
 # git-exercici
-Creating a git repositoy
+Creating a git repository
