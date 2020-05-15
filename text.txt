@@ -1,1 +1,4 @@
+
 Some text modified from master branch
+
+Some text modified from branch1
